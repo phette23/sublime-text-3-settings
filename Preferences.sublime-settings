@@ -11,9 +11,9 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Tag",
 		"Autoprefixer",
-		"Vintage"
+		"Vintage",
+		"Tag"
 	],
 	"line_padding_top": 1,
 	"margin": 2,
