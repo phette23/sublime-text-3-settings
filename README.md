@@ -1,4 +1,4 @@
-sublime-text-3-settings
+Sublime Text 3 Settings
 =======================
 
 my Packages/User folder for Sublime 3
