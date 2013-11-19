@@ -11,18 +11,14 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Tag",
 		"Autoprefixer",
-		"Vintage",
-		"Tag"
+		"Vintage"
 	],
 	"line_padding_top": 1,
 	"margin": 2,
 	"open_files_in_new_window": false,
 	"remember_open_files": false,
-	"rulers":
-	[
-		80
-	],
 	"show_tab_close_buttons": false,
 	"spell_check": true,
 	"tab_size": 2,
