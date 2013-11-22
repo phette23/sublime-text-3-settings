@@ -14,7 +14,6 @@
 	"ignored_packages":
 	[
 		"Tag",
-		"Autoprefixer",
 		"Vintage"
 	],
 	"line_padding_top": 1,
