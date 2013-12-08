@@ -13,7 +13,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Tag",
 		"Vintage"
 	],
 	"line_padding_top": 1,
