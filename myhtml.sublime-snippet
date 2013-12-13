@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>$1</title>
+  <meta name="description" content="$2">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="$3">
+</head>
+<body>
+$0
+</body>
+</html>]]></content>
+  <tabTrigger>myhtml</tabTrigger>
+  <scope>text.html</scope>
+  <description>Basic HTML template with meta tags.</description>
+</snippet>
