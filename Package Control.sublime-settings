@@ -18,6 +18,13 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-pep257",
+		"SublimeLinter-php",
 		"Tag",
 		"Theme - Soda"
 	]
