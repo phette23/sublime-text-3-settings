@@ -24,6 +24,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-pep257",
 		"SublimeLinter-php",
+		"SublimeLinter-scss-lint",
 		"Tag",
 		"Theme - Soda"
 	]
