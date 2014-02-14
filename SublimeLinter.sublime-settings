@@ -12,7 +12,7 @@
                 "args": [],
                 "errors": "",
                 "excludes": [],
-                "ignore": "ids,box-sizing",
+                "ignore": "ids,box-sizing,star-property-hack",
                 "warnings": ""
             },
             "flake8": {
