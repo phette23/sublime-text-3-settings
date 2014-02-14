@@ -1,0 +1,17 @@
+{
+    ///////////////////////////////
+    // Emmet customization
+    // Each section has the same meaning as the same-named JSON file
+    // described here:
+    // http://docs.emmet.io/customization/
+    ///////////////////////////////
+
+    // Custom snippets definitions, as per https://github.com/emmetio/emmet/blob/master/snippets.json
+    "snippets": {
+        "css": {
+            "abbreviations": {
+                "cf": ".cf:before,\n.cf:after {\n\tcontent: ' ';\n\tdisplay: table;\n}\n\n.cf:after {\n\tclear: both;\n}\n\n.cf {\n\t*zoom: 1;\n}"
+            }
+        }
+    }
+}
