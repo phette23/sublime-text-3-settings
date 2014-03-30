@@ -53,6 +53,12 @@
                 "args": [],
                 "excludes": []
             },
+            "phpmd": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
+            },
             "scss": {
                 "@disable": false,
                 "args": [],
