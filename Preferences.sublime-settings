@@ -13,8 +13,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeLinter-flake8"
+		"SublimeLinter-flake8",
+		"Vintage"
 	],
 	"line_padding_top": 1,
 	"margin": 2,
