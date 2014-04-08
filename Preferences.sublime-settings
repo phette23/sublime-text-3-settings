@@ -13,9 +13,10 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Markdown",
 		"SublimeLinter-flake8",
-		"Vintage"
+		"Vintage",
+		"Markdown",
+		"SublimeLinter-pep257"
 	],
 	"line_padding_top": 1,
 	"margin": 2,
