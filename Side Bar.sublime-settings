@@ -1,3 +1,4 @@
 {
-	"version": "setting no longer updated"
+    "default_browser": "chrome",
+	"disabled_menuitem_open_in_new_window": true
 }
