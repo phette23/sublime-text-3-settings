@@ -1,4 +1,5 @@
 {
-    "default_browser": "chrome",
-	"disabled_menuitem_open_in_new_window": true
+	"default_browser": "chrome",
+	"disabled_menuitem_open_in_new_window": true,
+	"version": "setting no longer updated"
 }

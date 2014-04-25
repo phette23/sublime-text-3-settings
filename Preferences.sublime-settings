@@ -14,8 +14,8 @@
 	"ignored_packages":
 	[
 		"SublimeLinter-flake8",
-		"Vintage",
 		"Markdown",
+		"Vintage",
 		"SublimeLinter-pep257"
 	],
 	"line_padding_top": 1,
