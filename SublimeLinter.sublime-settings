@@ -33,7 +33,8 @@
             "json": {
                 "@disable": false,
                 "args": [],
-                "excludes": []
+                "excludes": [],
+                "strict": true
             },
             "pep257": {
                 "@disable": false,
