@@ -13,11 +13,11 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Markdown",
-		"SublimeLinter-pep257",
-		"Theme - Soda",
+		"SublimeLinter-flake8",
 		"Vintage",
-		"SublimeLinter-flake8"
+		"Markdown",
+		"Theme - Soda",
+		"SublimeLinter-pep257"
 	],
 	"line_padding_top": 1,
 	"margin": 2,

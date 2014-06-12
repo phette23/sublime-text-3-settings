@@ -63,7 +63,9 @@
             "scss": {
                 "@disable": false,
                 "args": [],
-                "excludes": []
+                "exclude-linter": "",
+                "excludes": [],
+                "include-linter": ""
             }
         },
         "mark_style": "outline",
