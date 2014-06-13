@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "cat $file | tr -d '[:space:]' | pbcopy"
+}

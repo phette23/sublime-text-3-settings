@@ -1,0 +1,4 @@
+{
+  "shell_cmd": "uglifyjs --preamble='javascript:' $file | tr -d '\n' | pbcopy",
+  "selector": "source.js"
+}
