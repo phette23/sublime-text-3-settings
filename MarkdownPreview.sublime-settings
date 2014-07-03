@@ -1,0 +1,6 @@
+{
+    "browser": "default",
+    "parser": "github",
+    "enable_highlight": true,
+    "show_panel_on_build": false
+}
