@@ -38,6 +38,7 @@
 		"SublimeLinter-phpmd",
 		"Tag",
 		"Theme - Soda",
-		"URLEncode"
+		"URLEncode",
+		"VimL"
 	]
 }
