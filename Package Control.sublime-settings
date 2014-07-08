@@ -11,6 +11,7 @@
 		"DocBlockr",
 		"Emmet",
 		"fish-shell",
+		"FreeMarker",
 		"Git",
 		"GitGutter",
 		"HTML5",
@@ -27,6 +28,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
@@ -34,8 +36,8 @@
 		"SublimeLinter-pep257",
 		"SublimeLinter-php",
 		"SublimeLinter-phpmd",
-		"SublimeLinter-scss-lint",
 		"Tag",
-		"Theme - Soda"
+		"Theme - Soda",
+		"URLEncode"
 	]
 }
