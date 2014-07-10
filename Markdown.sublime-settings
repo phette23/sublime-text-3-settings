@@ -1,5 +1,5 @@
 {
     "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
-    "wrap_width": 90,
+    "wrap_width": 80,
     "word_wrap": true
 }
