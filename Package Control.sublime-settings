@@ -6,7 +6,6 @@
 		"Autoprefixer",
 		"Better CoffeeScript",
 		"Bower",
-		"ColorPicker",
 		"DashDoc",
 		"DocBlockr",
 		"Emmet",
@@ -38,7 +37,6 @@
 		"SublimeLinter-phpmd",
 		"SublimeLinter-scss-lint",
 		"Tag",
-		"Theme - Soda",
 		"URLEncode",
 		"VimL"
 	]
