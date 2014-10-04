@@ -1,5 +1,11 @@
 {
-    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
-    "wrap_width": 80,
-    "word_wrap": true
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"extensions":
+	[
+		"mdown",
+		"txt",
+		"md"
+	],
+	"word_wrap": true,
+	"wrap_width": 80
 }
