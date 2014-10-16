@@ -37,6 +37,7 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phpmd",
 		"SublimeLinter-scss-lint",
+		"SublimeLinter-xmllint",
 		"Tag",
 		"URLEncode",
 		"VimL"
